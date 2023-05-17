@@ -1,0 +1,81 @@
+.btn-radius{
+    border-radius: 50px;
+}
+.btn-peach{
+    background: linear-gradient(red,darkorange,orange);
+}
+.btn-purple{
+    background: linear-gradient(purple,darkviolet,mediumpurple);
+}
+.btn-blue{
+    background: linear-gradient(blue,cornflowerblue,lightblue)
+}
+.btn-aqua{
+    background: linear-gradient(aqua,cornflowerblue);
+}
+.border-radius-circle{
+    border-radius: 50% !important;
+}
+img{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+.face-color{
+    background-color: #3C5A99;
+}
+.twitter-bg-color{
+    background-color: #2DAAE1;
+}
+.google-bg-color{
+    background-color: #DC4E41;
+}
+.in-bg-color{
+    background-color: #007AB9;
+}
+.instagram-bg-color{
+    background-color: #355C7D;
+}
+.youtube-bg-color{
+    background-color: #FF0401;
+}
+.basketball-bg-color{
+    background-color: #F26798;
+}
+.vk-bg-color{
+    background-color: #4D76A1;
+}
+.book-bg-color{
+    background-color: #FF9802;
+}
+.hashtag-bg-color{
+    background-color: white;
+}
+.border-green{
+    border: 2px solid forestgreen;
+}
+.cat-bg-color{
+    background-color: #000000;
+}
+.xat-bg-color{
+    background-color: #3B64AF;
+}
+.margin-left{
+    margin: 0;
+}
+.bg-default{
+    background-color: #2ABBAC;
+}
+.text-center{
+    width: 145px;
+    height: 40px;
+}
+.btn-outline-default{
+    border: 1px solid #2ABBAC;
+}
+.btn-outline-default:hover{
+    background-color: #2ABBAC;
+}
+a:hover{
+    color: white;
+}

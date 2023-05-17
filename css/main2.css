@@ -1,0 +1,35 @@
+.border-radius{
+    border-radius: 0;
+}
+.b-r{
+    border-radius: 20px;
+}
+button{
+    width: 100px !important;
+    height: 45px !important;
+}
+a{
+    width: 100px !important;
+    height: 45px !important;
+}
+.b-r-primary{
+    border-bottom: 2px solid darkblue !important;
+}
+.b-r-succes{
+    border-bottom: 2px solid darkgreen !important;
+}
+.b-r-info{
+    border-bottom: 2px solid blue !important;
+}
+.b-r-warning{
+    border-bottom: 2px solid orangered !important;
+}
+.b-r-danger{
+    border-bottom: 2px solid darkred !important;
+}
+.row-left{
+    margin-left: 300px;
+}
+.row-top{
+    margin-top: 170px !important;
+}
